@@ -1,0 +1,5 @@
+Q1. You need to keep an integer variable _currentIndex in the _ImageGalleryState class. 
+        This variable keeps track of the index of the currently displayed image in the list.
+
+Q2. The Scaffold is already wrapped within the StatefulWidget (ImageGallery)
+        so you can manage state updates when navigating between images.
